@@ -35,8 +35,7 @@ Outcome “rates” are computed as the mean of these 0/1 indicators within each
 1. Create and activate a virtual environment (Windows):
    ```bash
    python -m venv venv
-   .\venv\Scripts\activate
-````
+   .\venv\Scripts\activate````
 
 2. Install dependencies:
 
